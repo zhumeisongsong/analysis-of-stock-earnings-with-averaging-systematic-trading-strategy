@@ -3,7 +3,7 @@
 # Purpose and Hypothesis of the Analysis
 
 ## Purpose
-At time `t`，using the stock information obtained at t and all moments before t, forecast the return of the underlying at moment t+1 relative to moment t.
+At time `t`，using the stock information obtained at `t` and all moments before `t`, forecast the return of the underlying at moment `t+1` relative to moment `t`.
 
 ## Hypothesis
 Compared to the actual data, the yield prediction results are accurate.
@@ -12,7 +12,7 @@ Compared to the actual data, the yield prediction results are accurate.
 Historical Stock Data from https://tushare.pro/
 
 # Assumed analytical methods
-Logistic regression analysis of supervised learning
+`Logistic regression analysis` of supervised learning
 
 
 # Process

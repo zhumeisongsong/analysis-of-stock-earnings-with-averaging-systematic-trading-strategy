@@ -9,7 +9,7 @@ At time `t`，using the stock information obtained at t and all moments before t
 Compared to the actual data, the yield prediction results are accurate.
 
 # Required Data
-历史股票数据 from https://tushare.pro/
+Historical Stock Data from https://tushare.pro/
 
 # Assumed analytical methods
 Logistic regression analysis of supervised learning

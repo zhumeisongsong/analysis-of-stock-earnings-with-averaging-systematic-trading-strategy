@@ -28,3 +28,8 @@ http://baostock.com/baostock/index.php/%E6%8C%87%E6%95%B0%E6%95%B0%E6%8D%AE
 # References
 - https://bbs.huaweicloud.com/blogs/282278
 - https://www.kaggle.com/code/bryanb/stock-prices-forecasting-with-lstm
+- https://atrae.docbase.io/posts/2563322
+- https://www.kaggle.com/search?q=stock+forecasting
+- https://www.google.com/search?q=python+running+average SMA
+- https://blog.csdn.net/weixin_26746401/article/details/108260150
+- https://blog.csdn.net/weixin_26735933/article/details/108925217
